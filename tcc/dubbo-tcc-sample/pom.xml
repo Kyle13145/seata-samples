@@ -29,7 +29,7 @@
     <name>dubbo-tcc-sample ${project.version}</name>
 
     <properties>
-        <curator.version>4.2.0</curator.version>
+        <curator.version>5.6.0</curator.version>
     </properties>
 
     <dependencies>
