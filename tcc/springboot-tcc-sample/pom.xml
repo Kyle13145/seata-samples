@@ -33,7 +33,7 @@
         <seata.version>1.4.2</seata.version>
         <curator.version>4.2.0</curator.version>
         <dubbo.springboot.starter.version>1.0.0</dubbo.springboot.starter.version>
-        <dubbo.version>2.7.15</dubbo.version>
+        <dubbo.version>3.3.0</dubbo.version>
         <netty4.version>4.1.24.Final</netty4.version>
         <curator.version>4.2.0</curator.version>
         <spring.version>5.0.8.RELEASE</spring.version>
@@ -45,7 +45,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
-            <version>2.0.8.RELEASE</version>
+            <version>3.2.11</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
