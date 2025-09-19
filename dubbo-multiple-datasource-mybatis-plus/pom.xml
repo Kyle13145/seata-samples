@@ -16,7 +16,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <mybatis-plus-boot-starter.version>3.3.0</mybatis-plus-boot-starter.version>
+        <mybatis-plus-boot-starter.version>3.5.8</mybatis-plus-boot-starter.version>
         <dubbo.version>2.7.4.1</dubbo.version>
         <spring.version>5.1.9.RELEASE</spring.version>
     </properties>
@@ -70,7 +70,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>2.1.8.RELEASE</version>
+            <version>3.4.10</version>
         </dependency>
     </dependencies>
     <packaging>pom</packaging>
